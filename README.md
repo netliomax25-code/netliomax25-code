@@ -7,14 +7,16 @@
 ### Security Engineer @ DigiScrypt • Vulnerability Researcher • OSS Contributor
 
 📍 **Tumkur, Karnataka, India**
+🚀 **Team: CODE OPS 47 A**
 
 <p align="center">
 <a href="https://digiscrypt.com/">
 <img src="https://img.shields.io/badge/🏢%20DigiScrypt-Visit%20Website-0ea5e9?style=for-the-badge" />
 </a>
+<img src="https://img.shields.io/badge/⚡%20CODE%20OPS%2047%20A-Security%20Research-1e293b?style=for-the-badge" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=0EA5E9&center=true&vCenter=true&width=900&lines=Security+Engineer;Open+Source+Bug+Hunter;Memory+Safety+Researcher;Code+Auditor;Building+Reliable+Software" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=0EA5E9&center=true&vCenter=true&width=900&lines=Security+Engineer;Open+Source+Bug+Hunter;Memory+Safety+Researcher;CODE+OPS+47+A;Building+Reliable+Software" />
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=netliomax25-code&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -26,7 +28,9 @@
 
 # 👨‍💻 About Me
 
-I am a Security Engineer based in **Tumkur, Karnataka, India**, specializing in identifying and fixing security, reliability, and correctness issues in large open-source projects.
+I am a Security Engineer based in **Tumkur, Karnataka, India** and a member of **CODE OPS 47 A**.
+
+I specialize in identifying and fixing security, reliability, and correctness issues in large open-source projects.
 
 My work focuses on understanding system architecture, validating assumptions, reproducing real-world failures, and delivering maintainable fixes that align with project expectations.
 
@@ -151,6 +155,7 @@ Help maintainers merge safely.
 ### "Understand the system before fixing the bug."
 
 📍 Tumkur, Karnataka, India
+🚀 CODE OPS 47 A
 
 ⭐ Thanks for visiting my profile.
 
